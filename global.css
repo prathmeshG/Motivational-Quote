@@ -4,6 +4,16 @@
     align-content: center;
     text-align: center;
 }
+body{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+div{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
 table{
     align-content: center;
     text-align: center;

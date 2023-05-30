@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+table{
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+td{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+#climber-left{
+    width: 200px;
+    height: 290px;
+    margin-right: 15px;
+    border: 5px solid yellow;
+    border-radius: 0% 20% 0% 20%;
+}
+#climber{
+    width: 600px;
+    height: 360px;
+    border: 5px solid yellow;
+    border-radius: 1%;
+}
+#climber-right{
+    width: 200px;
+    height: 290px;
+    margin-left: 15px;
+    border: 5px solid yellow;
+    border-radius: 0% 20% 0% 20%;
+}
+h1{
+    color: yellow;
+    background-color: red;
+}
+p{
+    color: white;
+}
